@@ -41,7 +41,9 @@ Mainly focusing on techniques, tool usage and standards.
 
 # Sources
 
-[Awesome-github](https://github.com/phillipadsmith/awesome-github#infomation-for-people-who-are-new-to-github)
+[Awesome github](https://github.com/phillipadsmith/awesome-github#infomation-for-people-who-are-new-to-github)
+
+[Awesome shell](https://github.com/alebcay/awesome-shell)
 
 
 
