@@ -40,6 +40,27 @@ Topics will range from version control, scripting languages, web applications, a
 
 ### Go
 
+#### Tutorials
+* [A Tour of Go](http://tour.golang.org/) - Interactive tour of Go.
+* [Build web application with Golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web app with golang.
+* [Building Go Web Applications and Microservices Using Gin](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin) - Get familiar with Gin and find out how it can help you reduce boilerplate code and build a request handling pipeline.
+* [Go By Example](https://gobyexample.com/) - A hands-on introduction to Go using annotated example programs.
+* [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet) - A Go's reference card.
+* [Go database/sql tutorial](http://go-database-sql.org/) - Introduction to database/sql.
+* [How to Use Godog for Behavior-driven Development in Go](https://semaphoreci.com/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go) - Get started with Godog — a Behavior-driven development framework for building and testing Go applications.
+* [Working with Go](https://github.com/mkaz/working-with-go) - An intro to go for experienced programmers.
+
+#### Books
+* [A Go Developer's Notebook](https://leanpub.com/GoNotebook/read)
+* [An Introduction to Programming in Go](http://www.golang-book.com/)
+* [Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
+* [Building Web Apps With Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
+* [Go Bootcamp](http://golangbootcamp.com)
+* [GoBooks](https://github.com/dariubs/GoBooks) - A curated list of Go books
+* [Learning Go](https://www.miek.nl/downloads/Go/Learning-Go-latest.pdf)
+* [Network Programming With Go](https://jan.newmarch.name/go/)
+* [The Go Programming Language](http://www.gopl.io/)
+* [Web Application with Go the Anti-Textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
 
 ## Infosec
 
@@ -50,9 +71,9 @@ Mainly focusing on techniques, tool usage and standards.
 
 # Sources
 
-[Awesome github](https://github.com/phillipadsmith/awesome-github#infomation-for-people-who-are-new-to-github)
-
-[Awesome shell](https://github.com/alebcay/awesome-shell)
+* [Awesome github](https://github.com/phillipadsmith/awesome-github#infomation-for-people-who-are-new-to-github)
+* [Awesome shell](https://github.com/alebcay/awesome-shell)
+* [Awesome go](https://github.com/avelino/awesome-go)
 
 
 
