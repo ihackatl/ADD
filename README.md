@@ -38,6 +38,8 @@ Topics will range from version control, scripting languages, web applications, a
 
 ### Python
 
+### Web
+
 ### Go
 
 #### Tutorials
