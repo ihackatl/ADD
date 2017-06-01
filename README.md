@@ -14,10 +14,10 @@ Topics will range from version control, scripting languages, web applications, a
 
 #### Basics
 
-* [Udacity's "How to Use Git and Github](https://classroom.udacity.com/courses/ud775)
-* [Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub](https://github.com/jlord/git-it-electron)
-* [Codeschool's Try Git](https://try.github.io/levels/1/challenges/1)
-* [Github's On-Demand GitHub Training](https://services.github.com/on-demand/)
+* [ ] [Udacity's "How to Use Git and Github](https://classroom.udacity.com/courses/ud775)
+* [x] [Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub](https://github.com/jlord/git-it-electron)
+* [ ] [Codeschool's Try Git](https://try.github.io/levels/1/challenges/1)
+* [ ] [Github's On-Demand GitHub Training](https://services.github.com/on-demand/)
 
 
 
