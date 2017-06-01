@@ -77,9 +77,15 @@ Topics will range from version control, scripting languages, web applications, a
 * [The Go Programming Language](http://www.gopl.io/)
 * [Web Application with Go the Anti-Textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
 
-## Infosec
+## InfoSec
 
 Mainly focusing on techniques, tool usage and standards.
+
+### WebSec
+
+* [HackerOne's How to Become a Successful Bounty Hunter](https://www.hackerone.com/blog/become-a-successful-bug-bounty-hunter)
+* [Hacksplaining](https://www.hacksplaining.com/exercises)
+* [Jobert Abma, Co-founder of HackerOne's Quora answer](https://www.quora.com/How-does-one-become-a-bug-bounty-hunter?redirected_qid=6627472)
 
 
 ## Practice
